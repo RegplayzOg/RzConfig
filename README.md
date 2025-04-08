@@ -1,2 +1,2 @@
 # RzConfig
-regplayzconfig
+made by rz
